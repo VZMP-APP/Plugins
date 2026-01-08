@@ -1,14 +1,14 @@
 {
-  "name": "Message Suffix Injector",
-  "description": "Appends configurable text to every message you send",
-  "authors": [
-    {
-      "name": "Lua Coder",
-      "id": "0"
+    "name": "Message Appender",
+    "description": "Automatically appends custom text with spacing to every message you send",
+    "authors": [
+        {
+            "name": "Vaiskiainen",
+            "id": "1205851726586970125"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_message_edit"
     }
-  ],
-  "main": "src/index.ts",
-  "vendetta": {
-    "icon": "ic_badge_staff"
-  }
 }
