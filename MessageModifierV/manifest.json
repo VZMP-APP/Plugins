@@ -3,8 +3,8 @@
     "description": "Automatically appends custom text with spacing to every message you send",
     "authors": [
         {
-            "name": "Vaiskiainen",
-            "id": "1205851726586970125"
+            "name": "Emily",
+            "id": "0"
         }
     ],
     "main": "src/index.ts",
