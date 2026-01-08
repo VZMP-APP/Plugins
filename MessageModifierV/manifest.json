@@ -1,1 +1,14 @@
-
+{
+    "name": "Message Modifier",
+    "description": "Adds customizable footer text to all your messages",
+    "authors": [
+        {
+            "name": "Emily",
+            "id": "1016016621397090384"
+        }
+    ],
+    "main": "index.js",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
